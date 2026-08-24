@@ -1,0 +1,13 @@
+package 多态;
+
+public class Keyboard implements USB{
+    @Override
+    public void open() {
+        System.out.println("键盘打开");
+    }
+
+    @Override
+    public void close() {
+        System.out.println("键盘关闭");
+    }
+}
