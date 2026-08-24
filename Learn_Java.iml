@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="GENERAL_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/day01_Helloworld/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/day02_var/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/day03_if_for/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/day04_array/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/day05_array_method/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/day06_method_object/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/day07_object_private/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/day08_extends/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/day09_abstract_interface/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/day10_duotai/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/day11_maven_junit_lombok/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/day12_exception_api/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/day12_exception_api/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/day12_exception_api/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Revise_Java/src/main/java/变量_数据类型转换_运算符/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="lib" level="project" />
+    <orderEntry type="module-library">
+      <library name="testng">
+        <CLASSES>
+          <root url="jar://$MAVEN_REPOSITORY$/org/testng/testng/7.1.0/testng-7.1.0.jar!/" />
+          <root url="jar://$MAVEN_REPOSITORY$/com/beust/jcommander/1.72/jcommander-1.72.jar!/" />
+          <root url="jar://$MAVEN_REPOSITORY$/com/google/inject/guice/4.1.0/guice-4.1.0-no_aop.jar!/" />
+          <root url="jar://$MAVEN_REPOSITORY$/javax/inject/javax.inject/1/javax.inject-1.jar!/" />
+          <root url="jar://$MAVEN_REPOSITORY$/aopalliance/aopalliance/1.0/aopalliance-1.0.jar!/" />
+          <root url="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/19.0/guava-19.0.jar!/" />
+          <root url="jar://$MAVEN_REPOSITORY$/org/yaml/snakeyaml/1.21/snakeyaml-1.21.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="Maven: junit:junit:4.13.2" level="project" />
+    <orderEntry type="library" name="Maven: org.projectlombok:lombok:1.18.30" level="project" />
+  </component>
+</module>
